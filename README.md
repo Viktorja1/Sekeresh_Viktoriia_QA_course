@@ -1,2 +1,2 @@
 # Sekeresh_Viktoriia_QA_course
-My course QA
+My course QA+
